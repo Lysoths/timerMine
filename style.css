@@ -10,8 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color:black;
-    overflow: hidden;
-    flex-direction: column;
+    overflow: hidden;   
 }
 
 .container {
